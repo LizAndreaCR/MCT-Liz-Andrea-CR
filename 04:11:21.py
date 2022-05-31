@@ -1,0 +1,5 @@
+print('Name: Liz Andrea Cordova Rodriguez')
+print('Grade: 9th')
+print('Group: D')
+print('Fav food: pizza')
+print('Hi mister how are you?')
